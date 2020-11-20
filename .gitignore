@@ -4,6 +4,9 @@
 # Nothing in build
 build/*
 
+# Downloaded libraries
+lib/
+
 # Package Files #
 *.jar
 *.zip
